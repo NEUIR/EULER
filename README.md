@@ -7,3 +7,27 @@ This repository contains the source code for the paper: [EULER: Enhancing the Re
 Large Language Models (LLMs) have demonstrated strong reasoning capabilities and achieved promising results in mathematical problem-solving tasks. Learning from errors offers the potential to further enhance the performance of LLMs during Supervised Fine-Tuning (SFT). However, the errors in synthesized solutions are typically gathered from sampling trails, making it challenging to generate solution errors for each mathematical problem.This paper introduces the Error-IndUced LEaRning (EULER) model, which aims to develop an error exposure model that generates high-quality solution errors to enhance the mathematical reasoning capabilities of LLMs.
 
 ![](figs/图片1.png)
+
+## Requirements
+
+### 1. Python Environment:
+
+Install the following packages using Pip or Conda under this environment.
+
+```
+python >= 3.8
+torch == 1.12.1
+recbole == 1.2.0
+datasets == 3.1.0
+transformers == 4.22.2
+sentencepiece == 0.2.0
+faiss-cpu == 1.8.0.post1
+scikit-learn >= 1.1.2
+numpy >= 1.17.2
+pandas >= 1.0.0
+tqdm
+jsonlines
+networkx
+```
+### 2. Install LLaMA-Factory.
+Refer to [https://github.com/hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory) for detailed instructions.
