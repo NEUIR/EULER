@@ -42,6 +42,21 @@ pip install -e ".[torch,metrics]"
 
 ## train
 
+### 1. Dpo-optimization
+
+```bash
+bash scripts/dpo.sh
+```
+
+### 2. Error-Enhanced-SFT
+
+```bash
+bash scripts/error-enhanced-sft.sh 
+```
+
 ## inference
 
 ## eval
+```bash
+bash scripts/eval.sh 
+```
