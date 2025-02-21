@@ -38,11 +38,11 @@ cd LLaMA-Factory
 pip install -e ".[torch,metrics]"
 ```
 
-## data-collection
+## Tata-Collection
 
-## train
+## Train
 
-### 1. Dpo-optimization
+### 1. Dpo-Optimization
 
 ```bash
 bash scripts/dpo.sh
@@ -54,9 +54,9 @@ bash scripts/dpo.sh
 bash scripts/error-enhanced-sft.sh 
 ```
 
-## inference
+## Inference
 
-## eval
+## Eval
 ```bash
 bash scripts/eval.sh 
 ```
