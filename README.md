@@ -56,6 +56,10 @@ bash scripts/error-enhanced-sft.sh
 
 ## Inference
 
+```bash
+bash scripts/inference.sh 
+```
+
 ## Eval
 ```bash
 bash scripts/eval.sh 
