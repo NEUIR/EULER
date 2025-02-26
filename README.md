@@ -38,7 +38,7 @@ cd LLaMA-Factory
 pip install -e ".[torch,metrics]"
 ```
 
-## Tata-Collection
+## Data-Collection
 
 ## Train
 
