@@ -2,6 +2,26 @@
 
 This repository contains the source code for the paper: [EULER: Enhancing the Reasoning Ability of Large Language Models through Error-Induced Learning]().
 
+[![GitHub](https://img.shields.io/badge/GitHub-ConsRec-black?logo=github)](https://github.com/NEUIR/EULER/edit/main/README.md)
+[![arXiv](https://img.shields.io/badge/arXiv-anonymous-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/xxxx.xxxxx)
+[![HuggingFace-Paper](https://img.shields.io/badge/HuggingFace-anonymous-yellow?logo=huggingface)](https://huggingface.co/papers/xxxx.xxxxx)
+[![HuggingFace-EULER](https://img.shields.io/badge/HuggingFace-EULER-yellowgreen)](https://huggingface.co/qizheyanger/EULER)
+
+<div align="center">
+<p align="center" dir="auto">
+
+• 🎯 [Overview](#overview) 
+• ⚙️ [Requirements](#requirements)
+• 🔧 [Reproduction Guide](#reproduction-guide)
+</p>
+<p align="center" dir="auto">
+
+• ✈️ [Experimental Result](#experimental-result) 
+• 📃 [Acknowledgement](#acknowledgement) 
+• 📝 [Citation](#citation)
+• 📨 [Contact](#contact)
+</p>
+</div>
 ## Overview
 
 EULER is an innovative framework designed to enhance the mathematical reasoning capabilities of Large Language Models (LLMs) by strategically optimizing the generation and utilization of solution errors. At its core, EULER introduces a novel error exposure model that increases the likelihood of generating self-made solution errors while leveraging high-quality solutions from a superior LLM to regularize the overall generation quality.
