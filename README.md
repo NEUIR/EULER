@@ -28,7 +28,7 @@ This repository contains the source code for the paper: [EULER: Enhancing the Re
 EULER is an innovative framework designed to enhance the mathematical reasoning capabilities of Large Language Models (LLMs) by strategically optimizing the generation and utilization of solution errors. At its core, EULER introduces a novel error exposure model that increases the likelihood of generating self-made solution errors while leveraging high-quality solutions from a superior LLM to regularize the overall generation quality.
 
 
-![](figs/图片1.png)
+![](figs/pipeline.png)
 
 
 ## Requirements
