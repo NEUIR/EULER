@@ -92,3 +92,9 @@ bash scripts/inference.sh
 ```bash
 bash scripts/eval.sh 
 ```
+## Contanct
+If you have questions, suggestions, and bug reports, please email:
+```bash
+2401934@stu.neu.edu.cn
+```
+
