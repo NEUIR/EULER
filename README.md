@@ -2,9 +2,11 @@
 
 This repository contains the source code for the paper: [EULER: Enhancing the Reasoning Ability of Large Language Models through Error-Induced Learning]().
 
+<div align="center">
 [![arXiv](https://img.shields.io/badge/arXiv-anonymous-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/pdf/xxxx.xxxxx)
 [![HuggingFace-Paper](https://img.shields.io/badge/HuggingFace-anonymous-yellow?logo=huggingface)](https://huggingface.co/papers/xxxx.xxxxx)
 [![HuggingFace-EULER](https://img.shields.io/badge/HuggingFace-EULER-yellowgreen)](https://huggingface.co/qizheyanger/EULER)
+</div>
 
 <div align="center">
 <p align="center" dir="auto">
